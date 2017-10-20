@@ -8,7 +8,7 @@ function fade($ele) {
         fade($next.length > 0 ? $next : $(this).parent().children().first());
    });
 }
-fade($('.quoteLoop > .quote').first());
+//fade(('.quoteLoop > .quote').first());
 
 
 /*----------------------------------------------------*/
