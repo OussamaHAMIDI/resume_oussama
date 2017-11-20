@@ -4,7 +4,7 @@ function submitContact() {
   // This is our email API for our company
   // You need to be registered to use it,
   // and i registered you so you can now receive emails
-  var yuki_URL = "http://redcarpet-thegate.herokuapp.com/emails";
+  var yuki_URL = "https://redcarpet-thegate.herokuapp.com/emails";
   //This is the email i registered you with, you have to notify me before you change it
   var yuki_target_email = "oussama.hamidi@esprit.tn";
   // this is the content of the email you will receive,
@@ -42,5 +42,5 @@ function submitContact() {
 
 // the API goes to sleep after 30 minutes of inactivity
 // this is a trick to wake it up
-$.get('http://redcarpet-thegate.herokuapp.com/emails', function () {
+$.get('https://redcarpet-thegate.herokuapp.com/emails', function () {
 });
