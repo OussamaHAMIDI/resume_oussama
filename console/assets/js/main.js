@@ -212,7 +212,7 @@ var cmds = {
 
 // Output Branding
 $('.console-input').val("Loading...");
-$.get("assets/title&small=Console%20Site%20v" + ver + "%20Ready%20for%20use...", function(data) {
+$.get("https://cdn.unreal-designs.co.uk/cont/consoleTitle/?Matt&Cowley&small=Console%20Site%20v" + ver + "%20Ready%20for%20use...", function(data) {
   output(data.replace(/ /g, '&nbsp;').split("\n"));
 });
 
