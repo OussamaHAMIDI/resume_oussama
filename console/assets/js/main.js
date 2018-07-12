@@ -212,7 +212,7 @@ var cmds = {
 
 // Output Branding
 $('.console-input').val("Loading...");
-$.get("https://cdn.unreal-designs.co.uk/cont/consoleTitle/?Matt&Cowley&small=Console%20Site%20v" + ver + "%20Ready%20for%20use...", function(data) {
+$.get("https://gist.githubusercontent.com/OussamaHAMIDI/34112a0f79c84291ceb44d8b736f2727/raw/410b4dbc06b670036c88af6d49ecebe9e0b699dd/console_name", function(data) {
   output(data.replace(/ /g, '&nbsp;').split("\n"));
 });
 
