@@ -97,7 +97,6 @@ var cmds = {
       "",
       "Hi I'm Oussama!",
       "I'm a software engineering student. I work remotely as a full stack web developer in anadvertising agency called L'Agence - Boite à outils",
-      "",
       "I'm a lot away from being a sterotype that's why I decided to create this console as an inertactive resume to talk about me."
     ];
 
