@@ -96,10 +96,22 @@ var cmds = {
       "About Me:",
       "",
       "Hi I'm Oussama!",
-      "I'm a software engineering student. I work remotely as a full stack web developer in anadvertising agency called L'Agence - Boite à outils",
+      "I'm an award-winning web developer with more than 2 years of well-rounded experience. My skills include HTML, CSS, JS development, and graphic design.",
+      "I also have experience with SEO and online advertising. I am at ease with other programming languages especially Objective C, C++ and Java. I experienced working on multiple game engines such as Unity3D and Unreal.",
       "I'm a lot away from being a sterotype that's why I decided to create this console as an inertactive resume to talk about me."
     ];
 
+    output(print);
+  },
+
+  "/goal": function(){
+    var print = [
+      "My Goal:",
+      "",
+      "In a parallel universe, I want to be the Tony Stark to this world, I want an iron powerfull suite with a large collection of vintage cars.",
+      "In this universe, I want to be the Elon Musk. Make the planet earth a better place to live in, all thinking about the next generations.",
+      "I have a huge interest in sustainable and clean energies, the effects of the global warming and the irreversible damage inflicted to Mother Earth."
+    ];
     output(print);
   },
 
