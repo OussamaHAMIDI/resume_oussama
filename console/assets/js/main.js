@@ -96,8 +96,9 @@ var cmds = {
       "About Me:",
       "",
       "Hi I'm Oussama!",
-      "I'm an award-winning web developer with more than 2 years of well-rounded experience. My skills include HTML, CSS, JS development, and graphic design.",
-      "I also have experience with SEO and online advertising. I am at ease with other programming languages especially Objective C, C++ and Java. I experienced working on multiple game engines such as Unity3D and Unreal.",
+      "I'm an award-winning IOT developer with more than 2 years of well-rounded web development experience. My field of knowledge includes RFID and WSN technologies, cellular networks, signal processing and network virtualization.",
+      "I also have experience with SEO and online advertising. I am at ease with programming languages especially C, C++, C#, Python and Java.",
+      "I experienced working on multiple game engines such as Unity3D and Unreal.",
       "I'm a lot away from being a sterotype that's why I decided to create this console as an inertactive resume to talk about me."
     ];
 
@@ -121,7 +122,7 @@ var cmds = {
     var print = [
       "Contact Me:",
       "",
-      "Email: <span>oussama.hamidi@esprit.tn</span>",
+      "Email: <span>oussama.al.hamidi@gmail.tn</span>",
       "Website: <span>thebored.me</span>",
       "Github: <span>github.com/OussamaHAMIDI</span>"
     ];
